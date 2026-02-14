@@ -1,0 +1,25 @@
+const simpsonsData = [
+  { id: 1, name: "Homer Simpson", image: "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png", phrase: "D’oh!" },
+  { id: 2, name: "Marge Simpson", image: "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png", phrase: "¡Homer!" },
+  { id: 3, name: "Bart Simpson", image: "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png", phrase: "¡Multiplícate por 0!" },
+  { id: 4, name: "Lisa Simpson", image: "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png", phrase: "¡Me encanta tocar el saxofón!" },
+  { id: 5, name: "Maggie Simpson", image: "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png", phrase: "¡Buu búuu!" },
+  { id: 6, name: "Ned Flanders", image: "https://i.pinimg.com/474x/b6/4d/50/b64d504ddfbcdc47fd7f1878100b52e4.jpg", phrase: "¡Okily-dokily, vecino!" },
+  { id: 7, name: "Montgomery Burns", image: "https://i.pinimg.com/564x/fc/56/e4/fc56e48911b50302ae0a5f60287f9f6d.jpg", phrase: "Excelente… ¡pero diabólicamente cruel!" },
+  { id: 8, name: "Waylon Smithers", image: "https://i.pinimg.com/564x/c1/59/46/c159464fc7a78e454f7f88e653cc658c.jpg", phrase: "Todo por el Sr. Burns" },
+  { id: 9, name: "Krusty el Payaso", image: "https://i.pinimg.com/474x/68/c6/1a/68c61a0d22ba7125512e73cb129977ae.jpg", phrase: "¡Jajaja! ¡Es un chiste!" },
+  { id: 10, name: "Apu Nahasapeemapetilon", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsgjMT0xTMAA2Gb2tf4N7ZCQvJ3IXzo_ZhrfkBqJevg&s", phrase: "¡Venga, que hay oferta secreta!" },
+  { id: 11, name: "Milhouse Van Houten", image: "https://i.pinimg.com/736x/fd/c4/28/fdc42831372ac92548009041cffa866d.jpg", phrase: "¡Socorro, no puedo con esto!" },
+  { id: 12, name: "Barney Gumble", image: "https://i.pinimg.com/564x/ca/b2/ef/cab2ef899e0780fb5c40e2c28cafd444.jpg", phrase: "¡Otra cerveza, por favor!" },
+  { id: 13, name: "Ralph Wiggum", image: "https://i.pinimg.com/474x/3e/84/76/3e847610636cdcb9b400ca8366ec06d3.jpg", phrase: "Mi pez me dijo que huyéramos" },
+  { id: 14, name: "Chief Wiggum", image: "https://p7.hiclipart.com/preview/120/998/409/the-simpsons-tapped-out-chief-wiggum-ralph-wiggum-homer-simpson-marge-simpson-police.jpg", phrase: "Tranquilos, lo tengo… creo" },
+  { id: 15, name: "Snake Jailbird", image: "https://i.pinimg.com/564x/1e/1c/b5/1e1cb5d6fa1df45e6079e4ee14e19872.jpg", phrase: "¡Manos arriba, amigo!" },
+  { id: 16, name: "Edna Krabappel", image: "https://i.pinimg.com/originals/5c/66/78/5c66781a0a9e30c1be0d05cdc0b3103d.png", phrase: "Otra clase, otra catástrofe" },
+  { id: 17, name: "Mayor Quimby", image: "https://i.pinimg.com/736x/b4/a7/1d/b4a71dd2295ed58f16cd4502b168c246.jpg", phrase: "Prometo… algo, algún día" },
+  { id: 18, name: "Nelson Muntz", image: "https://superawesomevectors.com/wp-content/uploads/2020/12/nelson-muntz-vector.jpg", phrase: "¡Ja ja!" },
+  { id: 19, name: "Groundskeeper Willie", image: "https://i.redd.it/why-is-groundskeeper-willies-colour-scheme-in-tapped-out-v0-2v4bor8tgzue1.png?width=267&format=png&auto=webp&s=631b0d77139633d84653bd4c09deadcb3a51d33b", phrase: "¡Escocia es salvaje como yo!" },
+  { id: 20, name: "Professor Frink", image: "https://i.pinimg.com/236x/88/3b/03/883b0351015eb2aff94b927f0e4e8718.jpg", phrase: "¡Glavin… ciencia peligrosa!" },
+  { id: 21, name: "Sideshow Bob", image: "https://i.pinimg.com/222x/3a/62/e8/3a62e846ed351b082ffdb2b044d6f8e4.jpg", phrase: "Tramando mi venganza… otra vez" },
+];
+
+export default simpsonsData;

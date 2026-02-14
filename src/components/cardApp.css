@@ -1,0 +1,21 @@
+.container{
+display: flex;
+
+}
+
+.targets{
+  color: black;
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  .img{
+    flex: 1 1 18rem;
+    width: 220px;
+    height: 220px;
+    object-fit: contain;
+  }
+}
