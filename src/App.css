@@ -7,6 +7,8 @@ body{
   justify-content: center;
   flex-direction: column;
   }
+
+
   h2{
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -16,4 +18,11 @@ body{
 
 img{
   width: 450px;
+}
+
+
+@media (max-width: 768px){
+  .title{
+    max-width: 80%;
+  }
 }
